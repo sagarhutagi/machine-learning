@@ -13,15 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine learning Development Process.md",
+                "file": "Notes/Machine learning Development Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Machine learning Development Process"
             }
+          },
+          {
+            "id": "d60360293b31c568",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\Sagar Hutagi\\Documents\\Obsidian\\Skills\\Machine Learning",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +221,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "a4a68b5f434bf1c6",
+  "active": "d60360293b31c568",
   "lastOpenFiles": [
+    "Notes/Machine learning Development Process.md",
+    "README.md",
+    "Machine learning Development Process.md",
+    "Code/MakeMore/main.ipynb",
+    "Code/MakeMore/Untitled0.ipynb",
+    "Code/MakeMore",
+    "Code/male_names.csv",
+    "Code/Untitled0.ipynb",
+    "Code/makemore.ipynb",
+    "Code",
+    "Notes",
+    "male_names.csv",
+    "makemore.ipynb",
     "Images/Pasted image 20260222193341.png",
     "Images/Pasted image 20260222193431.png",
-    "Machine learning Development Process.md",
-    "Images",
     "Pasted image 20260222193144.png",
     "Pasted image 20260222193215.png",
     "Pasted image 20260222193320.png"
