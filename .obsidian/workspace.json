@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63b58d29927d7092",
+        "id": "7ced968bf5038bec",
         "type": "tabs",
         "children": [
           {
-            "id": "52a408bdcbca2bfc",
+            "id": "ccf47bfc916f83fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,24 +185,23 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "52a408bdcbca2bfc",
+  "active": "ccf47bfc916f83fc",
   "lastOpenFiles": [
-    "Pasted image 20260223074526.png",
-    "Pasted image 20260223074034.png",
-    "Pasted image 20260223074018.png",
     "Notes/Machine learning Development Process.md",
-    "Pasted image 20260223072935.png",
     "Notes/Decision Trees.md",
+    "Pasted image 20260223165735.png",
+    "Images/Pasted image 20260222193341.png",
+    "Images/Pasted image 20260223072935.png",
+    "Images/Pasted image 20260223164642.png",
+    "Images/Pasted image 20260223074526.png",
+    "Images/Pasted image 20260223074034.png",
+    "Images/Pasted image 20260223074018.png",
     "README.md",
     "Untitled.base",
     "Untitled.canvas",
     "Images/Pasted image 20260223072059.png",
     "Images/Pasted image 20260223065421.png",
     "Images/Pasted image 20260223071110.png",
-    "Images/Pasted image 20260222221107.png",
-    "Images/Pasted image 20260222222024.png",
-    "Images/Pasted image 20260222222003.png",
-    "Images/Pasted image 20260222221958.png",
     "Machine learning Development Process.md",
     "Code/MakeMore/main.ipynb",
     "Code/MakeMore/Untitled0.ipynb",

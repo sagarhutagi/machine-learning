@@ -53,9 +53,9 @@
 
 ## Error metrics for skewed datasets
 
-- The error analysis doesn't work on these kinda datasets where the odds are far away from 50-50.![[Pasted image 20260222221107.png]]
+- The error analysis doesn't work on these kinda datasets where the odds are far away from 50-50. (Ex : Rare Diseases)![[Pasted image 20260222221107.png]]
 
-## Trading off Precision and Reacall
+## Trading off Precision and Recall
 
 - If y thrush-hold is increased it increase precision and decreases recall and wise-versa. 
   ![[Pasted image 20260222222024.png]] 
