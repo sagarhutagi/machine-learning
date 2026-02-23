@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decision Trees.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision Trees"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "cf99cf0f11c4fe05",
@@ -187,18 +186,18 @@
   },
   "active": "52a408bdcbca2bfc",
   "lastOpenFiles": [
-    "Pasted image 20260223071110.png",
-    "Pasted image 20260223065421.png",
-    "Images/Pasted image 20260222221107.png",
-    "Decision Trees.md",
     "Notes/Machine learning Development Process.md",
+    "Notes/Decision Trees.md",
+    "README.md",
+    "Images/Pasted image 20260223065421.png",
+    "Images/Pasted image 20260223071110.png",
+    "Images/Pasted image 20260222221107.png",
     "Images/Pasted image 20260222222024.png",
     "Images/Pasted image 20260222222003.png",
     "Images/Pasted image 20260222221958.png",
     "Images/Pasted image 20260222214314.png",
     "Images/Pasted image 20260222214327.png",
     "Images/Pasted image 20260222214324.png",
-    "README.md",
     "Machine learning Development Process.md",
     "Code/MakeMore/main.ipynb",
     "Code/MakeMore/Untitled0.ipynb",
@@ -210,7 +209,6 @@
     "Notes",
     "male_names.csv",
     "makemore.ipynb",
-    "Images/Pasted image 20260222193341.png",
-    "Images/Pasted image 20260222193431.png"
+    "Images/Pasted image 20260222193341.png"
   ]
 }
