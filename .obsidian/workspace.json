@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Decision Trees.md",
+                "file": "Notes/Machine learning Development Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision Trees"
+              "title": "Machine learning Development Process"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "cf99cf0f11c4fe05",
@@ -187,8 +186,11 @@
   },
   "active": "ccf47bfc916f83fc",
   "lastOpenFiles": [
-    "Notes/Machine learning Development Process.md",
+    "Notes/PDFs/Machine learning Development Process.pdf",
     "Notes/Decision Trees.md",
+    "Notes/PDFs/Decision Trees.pdf",
+    "Notes/PDFs",
+    "Notes/Machine learning Development Process.md",
     "Pasted image 20260223165735.png",
     "Images/Pasted image 20260222193341.png",
     "Images/Pasted image 20260223072935.png",
@@ -209,8 +211,6 @@
     "Code/male_names.csv",
     "Code/Untitled0.ipynb",
     "Code/makemore.ipynb",
-    "Code",
-    "Notes",
-    "male_names.csv"
+    "Code"
   ]
 }
