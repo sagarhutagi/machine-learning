@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ced968bf5038bec",
+        "id": "12e5e75bd4c2a598",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf47bfc916f83fc",
+            "id": "24e3e5c4b92d839a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Machine learning Development Process.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Machine learning Development Process"
+              "title": "New tab"
             }
           }
         ]
@@ -184,14 +180,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ccf47bfc916f83fc",
+  "active": "24e3e5c4b92d839a",
   "lastOpenFiles": [
-    "Notes/PDFs/Machine learning Development Process.pdf",
-    "Notes/Decision Trees.md",
-    "Notes/PDFs/Decision Trees.pdf",
-    "Notes/PDFs",
-    "Notes/Machine learning Development Process.md",
-    "Pasted image 20260223165735.png",
+    "Images/Pasted image 20260223165735.png",
+    "Notes/Advanced Learning Algorithms/Decision Trees.md",
+    "CFOP.md",
+    "Notes/Advanced Learning Algorithms",
+    "Notes/Supervised Learning",
+    "Notes/Unsupervised Learning",
+    "Notes/Advanced Learning Algorithms/Machine learning Development Process.md",
+    "Notes/Advanced Learning Algorithms/PDFs/Machine learning Development Process.pdf",
+    "Notes/Advanced Learning Algorithms/PDFs/Decision Trees.pdf",
+    "Notes/Advanced Learning Algorithms/PDFs",
     "Images/Pasted image 20260222193341.png",
     "Images/Pasted image 20260223072935.png",
     "Images/Pasted image 20260223164642.png",
@@ -207,10 +207,6 @@
     "Machine learning Development Process.md",
     "Code/MakeMore/main.ipynb",
     "Code/MakeMore/Untitled0.ipynb",
-    "Code/MakeMore",
-    "Code/male_names.csv",
-    "Code/Untitled0.ipynb",
-    "Code/makemore.ipynb",
-    "Code"
+    "Code/MakeMore"
   ]
 }
