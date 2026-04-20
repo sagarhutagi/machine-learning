@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3583cae921c3a6d1",
+        "id": "1ce6229cb0ccb9c9",
         "type": "tabs",
         "children": [
           {
-            "id": "db08e1f1306f4f0a",
+            "id": "8cbea4539c734342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Recommender Systems.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Recommender Systems"
+              "title": "New tab"
             }
           }
         ]
@@ -183,37 +179,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "db08e1f1306f4f0a",
+  "active": "8cbea4539c734342",
   "lastOpenFiles": [
-    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Recommender Systems.md",
     "Notes/Supervised Learning/Supervised Machine Learning Notes.pdf",
+    "README.md",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Unsupervised Learning.md",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/PDFs/Unsupervised Learning.pdf",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Reinforcement Learing.md",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/PDFs/Reinforcement Learing.pdf",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Recommender Systems.md",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/PDFs/Recommender Systems.pdf",
+    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/PDFs",
+    "Images/Pasted image 20260420220311.png",
+    "Images/Pasted image 20260420225201.png",
+    "Images/Pasted image 20260420224236.png",
+    "Pasted image 20260420224113.png",
+    "Images/Pasted image 20260420221048.png",
+    "Images/Pasted image 20260420220453.png",
+    "Pasted image 20260420220129.png",
     "Notes/Advanced Learning Algorithms/Machine learning Development Process.md",
     "Notes/Advanced Learning Algorithms/Decision Trees.md",
     "Notes/Advanced Learning Algorithms/PDFs/Machine learning Development Process.pdf",
     "Notes/Advanced Learning Algorithms/PDFs/Decision Trees.pdf",
-    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Reinforcement Learing.md",
-    "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning/Unsupervised Learning.md",
     "Pasted image 20260414193738.png",
     "Images/Pasted image 20260414193915.png",
     "Images/Pasted image 20260310191602.png",
-    "Images/Pasted image 20260304185211.png",
-    "Images/Pasted image 20260304184540.png",
-    "Images/Pasted image 20260304184224.png",
-    "Images/Pasted image 20260304183547.png",
-    "README.md",
-    "Images/Pasted image 20260228112333.png",
-    "Images/Pasted image 20260228115302.png",
     "Dario Amodei X Nikhil Kamath.md",
-    "Images/Pasted image 20260223165735.png",
     "CFOP.md",
     "Notes/Advanced Learning Algorithms",
     "Notes/Supervised Learning",
     "Notes/Unsupervised Learning, Recommenders, Reinforcement Learning",
-    "Notes/Advanced Learning Algorithms/PDFs",
-    "Untitled.base",
     "Untitled.canvas",
-    "Machine learning Development Process.md",
-    "Code/MakeMore/main.ipynb",
-    "Code/MakeMore/Untitled0.ipynb"
+    "Machine learning Development Process.md"
   ]
 }
